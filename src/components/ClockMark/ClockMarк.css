@@ -1,0 +1,19 @@
+.Clock__mark {
+    stroke-linecap: round;
+}
+
+.Clock__mark:nth-child(1) {
+    stroke-width: 1;
+}
+
+.Clock__mark:nth-child(4) {
+    stroke-width: 0.4;
+}
+
+.Clock__mark:nth-child(7) {
+    stroke-width: 0.7;
+}
+
+.Clock__mark:nth-child(10) {
+    stroke-width: 0.4;
+}

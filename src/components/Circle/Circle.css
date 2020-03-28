@@ -1,0 +1,8 @@
+.Seconds__circle {
+    stroke-width: .1;
+}
+
+.Clock__pin {
+    stroke-width: 0.2;
+    fill: crimson;
+}
