@@ -1,4 +1,4 @@
-# React svg clock with css grid
+# React svg clock
 
 👋 Hi there! My name is Zakk Shinikchiev! This is my implementation of svg clock with react.
 
