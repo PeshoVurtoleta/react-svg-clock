@@ -77,7 +77,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Demo:
 
-[react-svg-clock](https://react-svg-clock.netlify.com/)
+[react-svg-clock](https://react-svg-clock.netlify.app)
 
 [npm]: https://www.npmjs.com/
 [node]: https://nodejs.org
